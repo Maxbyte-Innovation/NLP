@@ -1,0 +1,187 @@
+,S.no,SupervisorComments,Reason,Comments,SolutionGiven,CheckDescription,MachineName,CheckType,DepartmentName
+0,0,Flame off timer was set 40 sec.,MAINTENANCE BREAKDOWN,change the flame off timer as per s o p,Set it 10 sec.,CHECK FOR MAINTENANCE BREAKDOWN,Auto Brazing,MAINTENANCE,Coil Shop
+1,9,Switch contact was not functioning properly.,MAINTENANCE BREAKDOWN,M/C Run switch was not working,Replace the push button,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+2,11,F007 error: Over Load,MAINTENANCE BREAKDOWN,uncoilar motor trip,change the start command of drive.,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+3,16,taking high amplitude at the starting time ,MAINTENANCE BREAKDOWN,uncoilar motor trip,modify the motor start command connection,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+4,24,It's Push button was not functional proper.,MAINTENANCE BREAKDOWN,oil charging m/c not working,Replace the push button,CHECK FOR MAINTENANCE BREAKDOWN,G0 Assembly Line,MAINTENANCE,Assembly Line
+5,26,start button was damaged.,MAINTENANCE BREAKDOWN,oil charging m/c not working,Replace the start button,CHECK FOR MAINTENANCE BREAKDOWN,G0 Assembly Line,MAINTENANCE,Assembly Line
+6,40,start button was damaged.,sensor bypass,NIL,Replace the fume detector controller,Check the Scissor lifts for Hazards,Auto Brazing,CLIRT,Coil Shop
+7,41,controller was defective,safety sensor bypass,Fume detector sensor was not working.,Replace the fume detector controller,Check the Scissor lifts for Hazards,Auto Brazing,CLIRT,Coil Shop
+8,42,controller was defective,safety sensor bypass,NIL,Replace the fume detector controller,Check the Scissor lifts for Hazards,Auto Brazing,CLIRT,Coil Shop
+9,43,controller was defective,safety sensor bypass,NIL,Replace the fume detector controller,Check the Hoses for Cleanliness,Auto Brazing,CLIRT,Coil Shop
+10,48,controller was defective,sensor bypass,NIL,Replace the fume detector controller,Check the Hoses for Cleanliness,Auto Brazing,CLIRT,Coil Shop
+11,49,controller was defective,sensor bypass,NIL,Replace the fume detector controller,Check the Scissor lifts for Hazards,Auto Brazing,CLIRT,Coil Shop
+12,51,IPC was faluty,MAINTENANCE BREAKDOWN,Sensor was not working,Replace the IPC,CHECK FOR MAINTENANCE BREAKDOWN,Spot Welding - 2,MAINTENANCE,Fabrication
+13,52,IPC was faulty.,MAINTENANCE BREAKDOWN,Sensor was not working,Repair the IPC,CHECK FOR MAINTENANCE BREAKDOWN,Spot Welding - 2,MAINTENANCE,Fabrication
+14,53,IPC was faulty.,safety sensor bypass,NIL,Replace the fume detector controller,Check the Scissor lifts for Hazards,Auto Brazing,CLIRT,Coil Shop
+15,54,IPC was faulty.,sensor bypass,NIL,Replace the fume detector controller,Check the Scissor lifts for Hazards,Auto Brazing,CLIRT,Coil Shop
+16,57,IPC was faulty.,safety sensor bypass,NIL,Replace the fume detector controller,Check the Gas Sensors for Cleanliness,Auto Brazing,CLIRT,Coil Shop
+17,60,U shape sensor was not properly working.,MAINTENANCE BREAKDOWN,Safety sensor issues,Cut the wire at end terminal and reconnect it.,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+18,64,Transmitter was not getting proper voltage.,MAINTENANCE BREAKDOWN,Safety sensor issues,Cut the wire and re-join it at connector point.,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+19,65,U shape sensor was not properly working.,MAINTENANCE BREAKDOWN,Safety sensor indicator problem,Cut the wire at end terminal and reconnect it.,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+20,66,Transmitter was not getting proper voltage.,MAINTENANCE BREAKDOWN,SAFETY SENSOR INDUCATOR PROBLEMS.,Cut the wire at end terminal and reconnect it.,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+21,67,Transmitter was not getting proper voltage.,MAINTENANCE BREAKDOWN,Safety sensor indicator problem,Cut the wire at end terminal and reconnect it.,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+22,69,Transmitter was not getting proper voltage.,MAINTENANCE BREAKDOWN,Auto conveyor breakdown.,Cut the wire at end terminal and reconnect it.,CHECK FOR MAINTENANCE BREAKDOWN,G0 Assembly Line,MAINTENANCE,Assembly Line
+23,71,It's cycle was disturbed.,MAINTENANCE BREAKDOWN,Auto conveyor breakdown.,Reset the cycle and check 2 nos machine's movement,CHECK FOR MAINTENANCE BREAKDOWN,G0 Assembly Line,MAINTENANCE,Assembly Line
+24,72,It's cycle was disturbed.,MAINTENANCE BREAKDOWN,Leakage from airline,replace the air pipe,Check Hose pipe for Hose leak (No leak),Expander-4-7mm OAK,CLIRT,Coil Shop
+25,73,It's cycle was disturbed.,MAINTENANCE BREAKDOWN,NIL,replace the air pipe,Check Hose pipe for Hose leak (No leak),Expander-4-7mm OAK,CLIRT,Coil Shop
+26,75,It's cycle was disturbed.,MAINTENANCE BREAKDOWN,NIL,replace the air pipe,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+27,76,It's cycle was disturbed.,MAINTENANCE BREAKDOWN,UPS trip,replace the air pipe,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+28,81,MCB was Tripped,MAINTENANCE BREAKDOWN,UPS trip,Switch on the MCB,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+29,82,MCB was Tripped,MAINTENANCE BREAKDOWN,UPS trip,Switch on the MCB,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+30,91,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Cutter for Greasing (2-3 Shots),HPB-2-3/8,CLIRT,Coil Shop
+31,92,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Machine area for Cleanliness (No dust and Oil Marks ),HPB-2-3/8,CLIRT,Coil Shop
+32,93,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Oil tank for Lubrication (Level),HPB-2-3/8,CLIRT,Coil Shop
+33,94,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Hair pin Straightner for cleaning (No dust and Oil Marks),HPB-2-3/8,CLIRT,Coil Shop
+34,95,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Hair pin Straightner for Greasing (Make sure used grease was EP-2),HPB-2-3/8,CLIRT,Coil Shop
+35,96,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Hair pin Straightner for Greasing (2-3 Shots ),HPB-2-3/8,CLIRT,Coil Shop
+36,97,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Feeding Area for (60 - 80  psi),HPB-2-3/8,CLIRT,Coil Shop
+37,98,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Machine area for Abnormal noise (No cranking or hammering noise),HPB-2-3/8,CLIRT,Coil Shop
+38,99,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Extend Carriage for Greasing (2-3 Shots),HPB-2-3/8,CLIRT,Coil Shop
+39,100,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,"Check Bender Switch tower , Extend carrriage for Nut-BoltTightness (No loose)",HPB-2-3/8,CLIRT,Coil Shop
+40,101,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check F.R.L for Clean filter (No dust),HPB-2-3/8,CLIRT,Coil Shop
+41,102,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check Safety Curtain for Active-Green lights (Should stop when interupted),HPB-2-3/8,CLIRT,Coil Shop
+42,103,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check bender gear rack for greasing (2-3 Shots),HPB-2-3/8,CLIRT,Coil Shop
+43,104,MCB was Tripped,MAINTENANCE BREAKDOWN,NIL,Switch on the MCB,Check hydraulic tank for no leakage from hose pipe,HPB-2-3/8,CLIRT,Coil Shop
+44,105,MCB was Tripped,MAINTENANCE BREAKDOWN,Limit switch was not working,Replace the Limit switch mounting bracket,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-1-OAK 7mm 2P,MAINTENANCE,Coil Shop
+45,106,Limit switch mounting was not proper.,MAINTENANCE BREAKDOWN,Limit switch was not working,Replace the Limit switch mounting bracket,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-1-OAK 7mm 2P,MAINTENANCE,Coil Shop
+46,107,"Limit switch mounting was not proper.
+",MAINTENANCE BREAKDOWN,Limit switch was not working,Replace the Limit switch mounting bracket,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-1-OAK 7mm 2P,MAINTENANCE,Coil Shop
+47,109,Limit switch mounting was not proper.,MAINTENANCE BREAKDOWN,air pushpit broken,Replace the Limit switch mounting bracket,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+48,119,Pushfit was broken,MAINTENANCE BREAKDOWN,air pushpit broken,Replace new pushfit in the machine,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+49,120,sensor wire broke,MAINTENANCE BREAKDOWN,endsheet sensor repair work,Replace the sensor wire,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+50,122,sensor position was misplaced.,MAINTENANCE BREAKDOWN,sensor check,Change the setting in the sensor,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+51,123,vacuum door cylinder seal was leakage ,MAINTENANCE BREAKDOWN,Vacuum door was not working,Replace a new cylinder in machine,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+52,133,vacuum door cylinder seal was leakage ,MAINTENANCE BREAKDOWN,NIL,Replace the hose pipe,Check Hose pipe for Hose leak (No leak),Expander-1-3/8 OAK,CLIRT,Coil Shop
+53,134,vacuum door cylinder seal was leakage ,MAINTENANCE BREAKDOWN,NIL,Replace the hose pipe,Check the Conveyor for Cleanliness,Auto Brazing,CLIRT,Coil Shop
+54,135,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,Uncoier motor not workinge for A/L sheet pinched,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+55,139,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,Vacuum pump not working on Galileo machine,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,G0 Assembly Line,MAINTENANCE,Assembly Line
+56,140,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,air leakage,Replace the air pipe ,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+57,141,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,A/L Roller motor not working,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+58,143,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,air leakage,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+59,162,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,A/L roll not feeding,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+60,163,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check lubrication pump for oil level,Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+61,164,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check oil tank for hydraulic pressure (set to 10 MPa),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+62,165,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check machine for all joint of hydraulic system and pneumatic system (no leakage),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+63,166,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Indicators for Gauges & elec. Signals (No wear & tear and functional),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+64,167,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Machine Motor for Flywheel assly. (No abnormal sound or slipage's),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+65,168,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Uncoiler Assly for Air pressure  (40 psi),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+66,169,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Uncoiler Assly for Lubrication (2-3 shots),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+67,170,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Uncoiler Assly for Cleanliness (No dust and Oil Marks & Al.scrap),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+68,171,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Die Assly for Air and oil hose (No leakage),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+69,172,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Die Assly for Loose hardware (clean),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+70,173,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Die Assly for Cleanliness (No access grease and Al.scrap),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+71,174,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,Uncoiler was not properly working,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+72,175,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,Lube oil pipe Leakage,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+73,182,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Set the loop and it's sensor.,Check Stacker unit for Oil leak (No leak),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+74,183,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,preser nu4 not stop,Set the loop and it's sensor.,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+75,190,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,Lube oil pipe Leakage,Replace the oil level indicator pipe,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+76,191,sheet loop was not moving properly, end sheet detecter sensar not working tube guid cilider not popar working,NIL,Replace the oil level indicator pipe,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+77,192,sheet loop was not moving properly,endsheet detector was not working,NIL,Replace the oil level indicator pipe,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+78,193,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Replace the oil level indicator pipe,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+79,214,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Replace the oil level indicator pipe,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+80,215,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Replace the oil level indicator pipe,Check Bullets  for Size / Tightness (No undersize / No Loose),Expander-4-7mm OAK,CLIRT,Coil Shop
+81,216,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Replace the oil level indicator pipe,Check F.R.L for Clean filter (No dust),Expander-4-7mm OAK,CLIRT,Coil Shop
+82,217,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,NIL,Replace the oil level indicator pipe,Check Pressure screw motor for Greasing (2-3 Shots ),Expander-4-7mm OAK,CLIRT,Coil Shop
+83,218,sheet loop was not moving properly,MAINTENANCE BREAKDOWN,No material alarm,Replace the oil level indicator pipe,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+84,223,sensor was not properly working,MAINTENANCE BREAKDOWN,No material alarm,Replace it with other sensor,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+85,224,sensor was not properly working,MAINTENANCE BREAKDOWN,NIL,Replace it with other sensor,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+86,225,sensor was not properly working,MAINTENANCE BREAKDOWN,NIL,Replace it with other sensor,Check Pressure screw motor for Greasing (2-3 Shots ),Expander-1-3/8 OAK,CLIRT,Coil Shop
+87,226,sensor was not properly working,MAINTENANCE BREAKDOWN,s/t moving cylinder was broken,Repair the cylinder and fit again,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+88,227,sensor was not properly working,MAINTENANCE BREAKDOWN,s/t moving cylinder was broken,Repair the cylinder and fit again,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+89,228,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,stacker was not moving,set it,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+90,233,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,me working m/c stop,set it,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-3-JDM 7mm 4P,MAINTENANCE,Coil Shop
+91,234,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Extend Carriage for Greasing (2-3 Shots),HPB-2-3/8,CLIRT,Coil Shop
+92,235,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Machine area for Abnormal noise (No cranking or hammering noise),HPB-2-3/8,CLIRT,Coil Shop
+93,236,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Feeding Area for (60 - 80  psi),HPB-2-3/8,CLIRT,Coil Shop
+94,237,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Hair pin Straightner for Greasing (2-3 Shots ),HPB-2-3/8,CLIRT,Coil Shop
+95,238,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Hair pin Straightner for Greasing (Make sure used grease was EP-2),HPB-2-3/8,CLIRT,Coil Shop
+96,239,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Hair pin Straightner for cleaning (No dust and Oil Marks),HPB-2-3/8,CLIRT,Coil Shop
+97,240,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Oil tank for Lubrication (Level),HPB-2-3/8,CLIRT,Coil Shop
+98,241,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Machine area for Cleanliness (No dust and Oil Marks ),HPB-2-3/8,CLIRT,Coil Shop
+99,242,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Cutter for Greasing (2-3 Shots),HPB-2-3/8,CLIRT,Coil Shop
+100,243,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,NIL,set it,Check Door Limit switch for Detoriation & position (In position & no wear out),Expander-1-3/8 OAK,CLIRT,Coil Shop
+101,244,moving shaft has miner damage.,MAINTENANCE BREAKDOWN,rol loding krein not working,set it,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+102,245,moving shaft has miner damage.,endsheet detector was not working,NIL,set it,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+103,246,controller relay output was not functional proper.,MAINTENANCE BREAKDOWN,control panel was operating properly,Interchange the controller relay,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+104,248,controller relay output was not functional proper.,MAINTENANCE BREAKDOWN,p/m,PM Activity,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+105,249,controller relay output was not functional proper.,endsheet detector was not working,NIL,PM Activity,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+106,250,Dust and oil marks on sensor's screan.,MAINTENANCE BREAKDOWN,Sensor alarm,Clean it with a lens cleaner tissue,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+107,251,Dust and oil marks on sensor's screan.,endsheet detector was not working,NIL,Clean it with a lens cleaner tissue,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+108,255,Dust and oil marks on sensor's screan.,endsheet detector was not working,NIL,Multiple ticket,Check Pressure screw motor for Greasing (2-3 Shots ),Expander-4-7mm OAK,CLIRT,Coil Shop
+109,263,oil and dust was contaminated on the screen of sensor,MAINTENANCE BREAKDOWN,NIL,Cleaned it with special glass cleaner tissue and done.,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+110,264,oil and dust was contaminated on the screen of sensor,MAINTENANCE BREAKDOWN,Safety sensor issues,Clean it with a lens cleaner tissue,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+111,265,sensor was not properly working,MAINTENANCE BREAKDOWN,stacker up/dow problem,Replace the sensor,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+112,266,sensor was not properly working,MAINTENANCE BREAKDOWN,stacker up/dow problem,Replace the sensor,CHECK FOR MAINTENANCE BREAKDOWN,Coil Bending,MAINTENANCE,Coil Shop
+113,456,Display was blinking due to improper voltage,MAINTENANCE BREAKDOWN,"HLD MACHINE BREAKDOWN (POWER CABLE ISSUE, DISPLAY BLINKING)",Refit the display power cable,CHECK FOR MAINTENANCE BREAKDOWN,F3 Assembly Line,MAINTENANCE,Assembly Line
+114,493,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check USB and Ethernet connection to PC : No abnormality,F2 Assembly Line,CLIRT,Assembly Line
+115,494,The bearings of pressure die were found missing. Operator is new.,MAINTENANCE BREAKDOWN,Pressure die was loose,Replace the Rexroth bearings,CHECK FOR MAINTENANCE BREAKDOWN,Chiyoda Bending,MAINTENANCE,System Tubing
+116,501,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,"Check Ensure safety for Light curtain, nterlocks & emergency switch(Operate it, if not ok inform Maintenance)",Finpress-1-OAK 7mm 2P,CLIRT,Coil Shop
+117,520,ss and inched Stock push button was loose.,MAINTENANCE BREAKDOWN,Switch was broken,Try fitting it properly,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+118,522,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check lubrication pump for oil level,Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+119,523,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check oil tank for hydraulic pressure (set to 10 MPa),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+120,524,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check machine for all joint of hydraulic system and pneumatic system (no leakage) ,Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+121,525,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Indicators for Gauges & elec. Signals (No wear & tear and functional),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+122,526,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Machine Motor for Flywheel assly. (No abnormal sound or slipage's),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+123,527,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Uncoiler Assly for Air pressure  (40 psi),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+124,528,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Uncoiler Assly for Lubrication (2-3 shots),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+125,529,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Uncoiler Assly for Cleanliness (No dust and Oil Marks & Al.scrap),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+126,530,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Die Assly for Air and oil hose (No leakage),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+127,531,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Die Assly for Loose hardware (clean),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+128,532,"External other power source provided.
+But still Problem is not found.",Monitor display blinking,NIL,Replace the CUP,Check Die Assly for Cleanliness (No access grease and Al.scrap),Finpress-3-JDM 7mm 4P,CLIRT,Coil Shop
+129,533,"External other power source provided.
+But still Problem is not found.",MAINTENANCE BREAKDOWN,Communication error,Replace the CUP,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+130,540,Vacuum pump jammed internally so needs to rotate wheel manually ,MAINTENANCE BREAKDOWN,Vacuum pump was not working ,Try to rotate Fly wheel manually by using spanner(May be an internal Jam),CHECK FOR MAINTENANCE BREAKDOWN,G1 Assembly Line,MAINTENANCE,Assembly Line
+131,544,HYD. Motor contactor was not switched on.,MAINTENANCE BREAKDOWN,Hydraulic motor was not switching on.,Provide a coil supply from control on a power contactor.,CHECK FOR MAINTENANCE BREAKDOWN,Chiyoda Bending,MAINTENANCE,System Tubing
+132,547,HYD. Motor contactor was not switched on.,MAINTENANCE BREAKDOWN,Hydraulic pump was not starting,Provide a coil supply from control on a power contactor.,CHECK FOR MAINTENANCE BREAKDOWN,Chiyoda Bending,MAINTENANCE,System Tubing
+133,551,potentio meter(10 K ohm) was not functioning properly.,MAINTENANCE BREAKDOWN,Speed control was not working,Replace the potentio meter(10 K ohm),CHECK FOR MAINTENANCE BREAKDOWN,Auto Brazing,MAINTENANCE,Coil Shop
+134,557,Base lock was loose.,energy meter was loosely fitted,NIL,Try to fit meter's lock,Check Energy meter for proper functioning : 210-230VAC,F2 Assembly Line,CLIRT,Assembly Line
+135,558,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+136,561,Base lock was loose.,MAINTENANCE BREAKDOWN,Communication error,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,RG - 100,MAINTENANCE,Fabrication
+137,566,Base lock was loose.,MAINTENANCE BREAKDOWN,row cutter bolt was loose,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+138,569,Base lock was loose.,MAINTENANCE BREAKDOWN,row cutter bolt was loose,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+139,572,Base lock was loose.,endsheet detector was not working,NIL,Try to fit meter's lock,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+140,573,Base lock was loose.,MAINTENANCE BREAKDOWN,Vacuuming issue in gas charging M/C.,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,G1 Assembly Line,MAINTENANCE,Assembly Line
+141,576,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Inspect All hoses for any damages.,Carson Flaring,CLIRT,System Tubing
+142,577,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Lubricate all parts.Do greasing to all points.,Carson Flaring,CLIRT,System Tubing
+143,578,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Check  all Pneumatic air solenoid valves.,Carson Flaring,CLIRT,System Tubing
+144,579,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Check the oil supply rate from air line lubricator .,Carson Flaring,CLIRT,System Tubing
+145,580,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Check the pressure gauge for proper working (Pointer should return to zero when no air pressure),Carson Flaring,CLIRT,System Tubing
+146,581,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Check the pressure gauges for proper permissible marking indications ,Carson Flaring,CLIRT,System Tubing
+147,582,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Clean the air filter .,Carson Flaring,CLIRT,System Tubing
+148,583,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+149,585,Base lock was loose.,MAINTENANCE BREAKDOWN,undefined,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+150,586,Base lock was loose.,MAINTENANCE BREAKDOWN,NIL,Try to fit meter's lock,Check Hydraulic reservoir tank for level (As per indicator),Expander-4-7mm OAK,CLIRT,Coil Shop
+151,615,Base lock was loose.,MAINTENANCE BREAKDOWN,stacker was not properly working,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-1-OAK 7mm 2P,MAINTENANCE,Coil Shop
+152,621,Base lock was loose.,MAINTENANCE BREAKDOWN,stacker was not properly working,Try to fit meter's lock,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+153,622,sensor was continuously on,endsheet detector was not working,sensor was continuously on,Change the setting in the sensor,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+154,623,sensor was continuously on,Monitor display blinking,NIL,Change the setting in the sensor,Check USB and Ethernet connection to PC : No abnormality Other Abnormalities,F2 Assembly Line,CLIRT,Assembly Line
+155,624,sensor was continuously on,Monitor display blinking,NIL,Change the setting in the sensor,Check Earthing connected tightly,F2 Assembly Line,CLIRT,Assembly Line
+156,625,lock was loose.,energy meter was loosely fitted,NIL,Try to fit it properly,Check Energy meter for proper functioning : 405-420VAC Check All electrical Indicators & switches : Normal working,F2 Assembly Line,CLIRT,Assembly Line
+157,626,sensor was continuously on,MAINTENANCE BREAKDOWN,sensor was continuously on,Change the setting in the sensor,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+158,630,sensor was continuously on,MAINTENANCE BREAKDOWN,Sensor was not working properly,Change the setting in the sensor,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+159,631,sensor was continuously on,MAINTENANCE BREAKDOWN,sensor setting,Change the setting in the sensor,CHECK FOR MAINTENANCE BREAKDOWN,Expander-4-7mm OAK,MAINTENANCE,Coil Shop
+160,636,sensor was continuously on,MAINTENANCE BREAKDOWN,NIL,Change the setting in the sensor,Check Energy meter for proper functioning : 405-420VAC Check All electrical Indicators & switches : Normal working,F2 Assembly Line,CLIRT,Assembly Line
+161,637,sensor was continuously on,endsheet detector was not working,NIL,Change the setting in the sensor,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+162,638,sensor was continuously on,MAINTENANCE BREAKDOWN,NIL,Change the setting in the sensor,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+163,698,Solenoid coil was detoriate.,MAINTENANCE BREAKDOWN,Enhance tank solenoid valve not operating properly.,Replace the solenoid coil,CHECK FOR MAINTENANCE BREAKDOWN,Finpress-2-OAK 3/8 4P,MAINTENANCE,Coil Shop
+164,699,Controller feedback was not within range.,MAINTENANCE BREAKDOWN,undefined,Replace the controller communication cable.,CHECK FOR MAINTENANCE BREAKDOWN,F2 Assembly Line,MAINTENANCE,Assembly Line
+165,703,HV IR Tester hanged,MAINTENANCE BREAKDOWN,IR WAS FAIL IN ATE.,Restart the HV-IR Tester,CHECK FOR MAINTENANCE BREAKDOWN,F1 Assembly Line,MAINTENANCE,Assembly Line
+166,704,HV IR Tester hanged,MAINTENANCE BREAKDOWN,NIL,Restart the HV-IR Tester,Check Safety sensor for Active (should stop when interupted),Expander-4-7mm OAK,CLIRT,Coil Shop
+167,705,HV IR Tester hanged,MAINTENANCE BREAKDOWN,NIL,Restart the HV-IR Tester,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+168,707,CNC communication was broken.,MAINTENANCE BREAKDOWN,CNC communication was broken.,Restarted system twice and done.,CHECK FOR MAINTENANCE BREAKDOWN,Amada Punching,MAINTENANCE,Fabrication
+169,708,Pressure was not indicated properly,MAINTENANCE BREAKDOWN,Pressure decay system malfunctioning,Replace the pressure sensor and charge the hoses,CHECK FOR MAINTENANCE BREAKDOWN,G0 Assembly Line,MAINTENANCE,Assembly Line
+170,710,Test,MAINTENANCE BREAKDOWN,Breakdown Test,Test,CHECK FOR MAINTENANCE BREAKDOWN,G0 Assembly Line,MAINTENANCE,Assembly Line

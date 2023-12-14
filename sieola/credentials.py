@@ -1,0 +1,3 @@
+
+api_key="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"
+hug_face="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"
